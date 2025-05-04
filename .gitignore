@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Conda / virtualenv environments
+env/
+venv/
+.venv/
+*.conda
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# R project files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Logs and outputs
+*.log
+*.out
+*.aux
+*.toc
+*.tmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Large raw data or intermediate results (customize as needed)
+*.bam
+*.sam
+*.fastq
+*.fq
+*.vcf
+*.bed
+*.gff
+*.gtf
+*.gz
+*.zip
+*.tar
+*.tar.gz
+*.h5
+*.hdf5
+
+# Results folders (customize if needed)
+results/
+output/
